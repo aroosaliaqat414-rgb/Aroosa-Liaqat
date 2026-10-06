@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER VÉRITÉ — Contemporary Luxury Clothing",
+  "description": "Discover architectural silhouettes, sustainable fabrics, and modern luxury clothing with curated collections, sizing tools, and effortless checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
